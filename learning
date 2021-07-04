@@ -1,0 +1,11 @@
+1. SASS - Pseudo Selectors
+
+    .flex{
+        display:flex;
+
+        &-jc-sb{
+            justify-content:space-between;
+        }
+
+    }
+2. 
